@@ -1,5 +1,7 @@
 # Interference Coatings Analysis & Synthesis
 
+**Published documentation:** https://ekatmoz88-alt.github.io/interference-coatings-analysis-synthesis/
+
 ## Overview
 
 A scientific and engineering project focused on the analysis, design, and synthesis of multilayer optical interference coatings.
