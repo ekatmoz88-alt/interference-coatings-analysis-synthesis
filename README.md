@@ -1,5 +1,7 @@
 # Interference Coatings Analysis & Synthesis
 
+[English](README.md) | [Русский](README.ru.md)
+
 **Published documentation:** https://ekatmoz88-alt.github.io/interference-coatings-analysis-synthesis/
 
 ## Overview
