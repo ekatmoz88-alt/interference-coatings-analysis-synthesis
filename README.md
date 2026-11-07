@@ -106,3 +106,8 @@ The repository currently contains the project documentation. Source code, materi
 ## Keywords
 
 Optical coatings, thin films, interference filters, multilayer structures, transfer matrix method, infrared optics, spectral synthesis, reflectance, transmittance, absorption, numerical optimization, Powell method, Delphi, Object Pascal.
+
+
+## Tags
+
+`optics` · `thin-films` · `interference-coatings` · `transfer-matrix` · `spectral-analysis` · `synthesis`
